@@ -2,7 +2,7 @@
 
 <div align="center">
  <a href="https://github.com/CagatayAkkas">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Ã‡aÄŸdaÅŸ SeÃ§kin TÃ¼fekci;Software+Developer;Welcome+To+My+Profile" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Çağdaş Seçkin Tüfekci;Software+Developer;Welcome+To+My+Profile" alt="Typing SVG" />
  </a>
 </div>
 <br><br>
@@ -13,7 +13,7 @@ I am a software developer living in Istanbul and I also provide digital consulta
 <br><br>
 
 <br><br>
-## ğŸ“« Contact Me
+## 📫 Contact Me
 - **Email**: 
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
@@ -31,7 +31,7 @@ I am a software developer living in Istanbul and I also provide digital consulta
   
   
 <br><br>
-## ğŸ’¼ Professional Experience
+## 💼 Professional Experience
 - **Digital Consultant**: Providing digital consultancy services.
 - **Freelance Developer**: Participated in various freelance projects.
 
@@ -42,7 +42,7 @@ I am a software developer living in Istanbul and I also provide digital consulta
 </p>
 <br><br>
 
-<h3 align="center">â˜‘ï¸Technologies, Languages and Tools</h3>
+<h3 align="center">☑️Technologies, Languages and Tools</h3>
 <div id="container" align="center">
   <p align="center"> 
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++">
