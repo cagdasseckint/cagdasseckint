@@ -40,7 +40,7 @@
 <br><br>
 
 <!-- Education and Certifications -->
-<h2 align="center">📚 Eğitim ve Sertifikalar</h2>
+<h2 align="center">📚 Education and Certifications</h2>
 
 - BilgeAdam: Software Developer Certificate of Participation
 - Microsoft:Developing ASP.NET MVC 4 Web Applications
@@ -52,17 +52,17 @@
 <br><br>
 
 <!-- Goals -->
-<h2 align="center">🎯 Hedefler</h2>
+<h2 align="center">🎯 Goals</h2>
 
-- Yapay Zeka alanında uzmanlaşmak
-- Veri Bilimi alanında kariyer yapmak
+- Specialize in Artificial Intelligence
+- Build a career in Data Science
 
 <!-- Divider GIF -->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br><br>
 
 <!-- GitHub Stats -->
-<h2 align="center">📈 GitHub İstatistikleri</h2>
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cagdasseckint&show_icons=true" alt="GitHub Stats" height="150">
@@ -74,7 +74,7 @@
 <br><br>
 
 <!-- GitHub Trophies -->
-<h2 align="center">🏆 GitHub Trophileri</h2>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=cagdasseckint" alt="GitHub Trophies">
@@ -118,7 +118,3 @@
 <h2 align="center">📅 Profil Güncelleme Tarihi</h2>
 
 <p align="center">Son Güncelleme: Mayıs 2024</p>
-
-<!-- Divider GIF -->
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br><br>
