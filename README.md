@@ -1,13 +1,9 @@
-<!-- Binary Effect Header -->
+<!-- Effect Header -->
 <div align="center">
   <a href="https://github.com/cagdasseckint">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=Çağdaş+Seçkin+Tüfekci;Full-Stack+Developer;Welcome+To+My+Profile" alt="Typing SVG" />
   </a>
 </div>
-<br><br>
-
-<!-- Divider GIF -->
-<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br><br>
 
 <!-- Short Bio -->
@@ -36,7 +32,6 @@
     <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R">
-    <img src="https://img.shields.io/badge/AI%20Enthusiast-FF69B4?style=for-the-badge" alt="AI Enthusiast">
   </p>
 </div>
 
@@ -44,24 +39,50 @@
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br><br>
 
+<!-- Education and Certifications -->
+<h2 align="center">📚 Eğitim ve Sertifikalar</h2>
+
+- BilgeAdam: Software Developer Certificate of Participation
+- Microsoft:Developing ASP.NET MVC 4 Web Applications
+- Microsoft:Programming in C#
+- Microsoft:Programming in HTML5 with JavaScript and CSS3
+
+<!-- Divider GIF -->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br><br>
+
+<!-- Goals -->
+<h2 align="center">🎯 Hedefler</h2>
+
+- Yapay Zeka alanında uzmanlaşmak
+- Veri Bilimi alanında kariyer yapmak
+
+<!-- Divider GIF -->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br><br>
+
 <!-- GitHub Stats -->
+<h2 align="center">📈 GitHub İstatistikleri</h2>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Languages" height="150">
+  <img src="https://github-readme-stats.vercel.app/api?username=cagdasseckint&show_icons=true" alt="GitHub Stats" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasseckint&layout=compact" alt="Top Languages" height="150">
 </div>
 
 <!-- Divider GIF -->
 <a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <br><br>
 
-<!-- Hobbies -->
-<h2 align="center">Hobbies</h2>
-<p align="center">
-  🎮 Digital Games<br>
-  🎥 Anime<br>
-  🧙‍♂️ FRP<br>
-  🏓 Table Tennis
-</p>
+<!-- GitHub Trophies -->
+<h2 align="center">🏆 GitHub Trophileri</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=cagdasseckint" alt="GitHub Trophies">
+</div>
+
+<!-- Divider GIF -->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br><br>
 
 <!-- Contact Information -->
 <h2 align="center">📫 Contact Me</h2>
@@ -75,10 +96,29 @@
   <a href="https://www.instagram.com/cagdasseckint" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
-  <strong>Discord:</strong> _cidu
+  <br>
 </p>
 
-<!-- Footer GIF -->
+<!-- Divider GIF -->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br><br>
+
+<!-- Profile Views Counter -->
+<h2 align="center">📈 GitHub Profil Ziyaretçi Sayacı</h2>
+
 <div align="center">
-  <img src="https://i.imgur.com/yourfootergif.gif" alt="Footer Gif" style="width: 100%; height: auto;" />
+  <img src="https://komarev.com/ghpvc/?username=cagdasseckintufekci" alt="GitHub Profil Ziyaretçi Sayacı">
 </div>
+
+<!-- Divider GIF -->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br><br>
+
+<!-- Last Updated -->
+<h2 align="center">📅 Profil Güncelleme Tarihi</h2>
+
+<p align="center">Son Güncelleme: Mayıs 2024</p>
+
+<!-- Divider GIF -->
+<a href="https://github.com/404"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br><br>
