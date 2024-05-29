@@ -114,4 +114,9 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=cagdasseckint&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
+<!-- Last Updated -->
+<h2 align="center">📅 Profil Güncelleme Tarihi</h2>
+
+<p align="center">Son Güncelleme: Mayıs 2024</p>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:50faaa,100:fa50e3&height=120&section=footer"/>
