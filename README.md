@@ -81,21 +81,18 @@
 <!-- Contact -->
 <h2>📫 Contact</h2>
 <ul>
-  <li><strong>Email:</strong> <a href="mailto:email@example.com">email@example.com</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://linkedin.com/in/kullaniciadi">linkedin.com/in/kullaniciadi</a></li>
-  <li><strong>Twitter:</strong> <a href="https://twitter.com/kullaniciadi">twitter.com/kullaniciadi</a></li>
-  <li><strong>Personal Website:</strong> <a href="https://www.kisiselwebsite.com">www.kisiselwebsite.com</a></li>
-</ul>
-
+  <li><strong>Email:</strong> <a href="mailto:cagdasseckintufekci@gmail.com">cagdasseckintufekci@gmail.com</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/cagdasseckintufekci">cagdasseckintufekci</a></li>
+  
 ---
 
 <!-- GitHub Stats -->
 <h2>📊 My GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kullaniciadi&show_icons=true&theme=radical" alt="Çağdaş's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=cagdasseckint&show_icons=true&theme=radical" alt="Çağdaş's GitHub Stats">
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kullaniciadi&layout=compact&theme=radical" alt="Top Languages Used">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasseckint&layout=compact&theme=radical" alt="Top Languages Used">
 </p>
 
 ---
@@ -103,23 +100,23 @@
 <!-- Contributions -->
 <h2>🤝 Contributions</h2>
 <ul>
-  <li><a href="https://github.com/proje">Project Name</a><br>A short description...</li>
-  <li><a href="https://github.com/proje">Another Project</a><br>A short description...</li>
+  <li><a href="https://github.com/proje">Project Name</a><br>description...</li>
+  <li><a href="https://github.com/proje">Another Project</a><br>description...</li>
 </ul>
 
 <!-- Blog Posts -->
 <h2>📝 Blog Posts</h2>
 <ul>
-  <li><a href="https://medium.com/@kullaniciadi/blog-yazisi-1">Blog Post 1</a><br>A short description...</li>
-  <li><a href="https://medium.com/@kullaniciadi/blog-yazisi-2">Blog Post 2</a><br>A short description...</li>
+  <li><a href="https://medium.com/@kullaniciadi/blog-yazisi-1">Blog Post 1</a><br>description...</li>
+  <li><a href="https://medium.com/@kullaniciadi/blog-yazisi-2">Blog Post 2</a><br>description...</li>
 </ul>
 
 <!-- Certifications -->
 <h2>🎓 Certifications</h2>
 <ul>
-  <li>AWS Certified Solutions Architect</li>
-  <li>Google Cloud Professional Data Engineer</li>
-  <li>Microsoft Certified: Azure Developer Associate</li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ul>
 
 ---
