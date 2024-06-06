@@ -91,10 +91,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cagdasseckint&show_icons=true&theme=radical" alt="Çağdaş's GitHub Stats">
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasseckint&layout=compact&theme=radical" alt="Top Languages Used">
 </p>
 
+</br>
+<p style="display: flex; justify-contect: space-between;">
+<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=cagdasseckint" />
+  
 ---
 
 <!-- Contributions -->
