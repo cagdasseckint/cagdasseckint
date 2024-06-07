@@ -58,6 +58,20 @@
   <li><strong>Other:</strong> Agile Methodologies, Test Automation, CI/CD</li>
 </ul>
 
+---
+
+<!-- GitHub Stats -->
+<h2>📊 My GitHub Stats</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=cagdasseckint&show_icons=true&theme=radical" alt="Çağdaş's GitHub Stats">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasseckint&layout=compact&theme=radical" alt="Top Languages Used">
+</p>
+
+---
+
 <!-- Goals -->
 <h3>🎯 My Goals</h3>
 <ul>
@@ -80,51 +94,12 @@
 
 ---
 
-<!-- GitHub Stats -->
-<h2>📊 My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cagdasseckint&show_icons=true&theme=radical" alt="Çağdaş's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasseckint&layout=compact&theme=radical" alt="Top Languages Used">
-</p>
-
----
-
-<!-- Projects -->
-<h2>🏆 My Projects</h2>
-
-<h3><a href="https://github.com/cagdasseckint/proje1">Project 1: Project Name </a></h3>
-<p>Project description...</p>
-<ul>
-  <li>🔧 Technologies Used: </li>
-  <li>✨ Features: </li>
-</ul>
-
-<!-- Contributions -->
-<h2>🤝 Contributions</h2>
-<ul>
-  <li><a href="https://github.com/proje">Project Name</a><br>description...</li>
-  <li><a href="https://github.com/proje">Another Project</a><br>description...</li>
-</ul>
-
-<!-- Blog Posts -->
-<h2>📝 Blog Posts</h2>
-<ul>
-  <li><a href="https://medium.com/@kullaniciadi/blog-yazisi-1">Blog Post 1</a><br>description...</li>
-  <li><a href="https://medium.com/@kullaniciadi/blog-yazisi-2">Blog Post 2</a><br>description...</li>
-</ul>
-
----
-
 <!-- Contact -->
-<h2>📫 Contact</h2>
-<ul>
-  <li><strong>Email:</strong> <a href="mailto:cagdasseckintufekci@gmail.com">cagdasseckintufekci@gmail.com</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/cagdasseckintufekci">cagdasseckintufekci</a></li>  
-
----
+<div align="center">
+    <a href="https://www.instagram.com/cagdasseckintufekci/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="48" height="48"></a>
+    <a href="https://www.linkedin.com/in/cagdasseckintufekci/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48" height="48"></a>
+    <a href="mailto:cagdasseckintufekci@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="48" height="48"></a>
+</div>
 
 <!-- Thank You -->
-<p align="center"><strong>Thank you!</strong> Thank you for visiting my GitHub profile. See you in new projects and collaborations!</p>
+<p align="center"><strong>Thank you</strong> for visiting my GitHub profile. See you in new projects and collaborations!</p>
