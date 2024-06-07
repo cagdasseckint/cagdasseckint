@@ -70,8 +70,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasseckint&layout=compact&theme=buefy" alt="Top Languages Used"/>
   </a>
 </div>
-<br />
-<br />
 
 ---
 
