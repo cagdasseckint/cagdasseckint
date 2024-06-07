@@ -4,11 +4,24 @@
   <a href="https://github.com/cagdasseckint"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+To+My+Profile;Çağdaş+Seçkin+Tüfekci;Full-Stack+Developer;&font=Pacifico&center=true&width=650&height=120&color=00FF00&vCenter=true&size=45%22"></a>
 </div>
 
+![readmepng1](https://private-user-images.githubusercontent.com/80230435/337638087-91b980d8-e54d-4174-8d2a-704d7fe4b593.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3NjA0NDAsIm5iZiI6MTcxNzc2MDE0MCwicGF0aCI6Ii84MDIzMDQzNS8zMzc2MzgwODctOTFiOTgwZDgtZTU0ZC00MTc0LThkMmEtNzA0ZDdmZTRiNTkzLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwN1QxMTM1NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MWJjYmNhOGMyYjBlNTM5MzUwZGRmNzVmY2YwYWViYjFlZjM5MzIyNTdiYWE2YzU4NTY5NGQ0NDM2ZmEwNTJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.I6V4IxZg068MCS9XXlhtcj52Sr71vZlw2Oq8kPApFw8)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/cagdasseckint/count.svg" />
+</p>
 
 <!-- About Me -->
 <h2>About Me</h2>
 <p>Hello! I'm Çağdaş, living in Istanbul and studying software engineering. I work as a digital consultant and freelance in software and design projects. I can talk about technology and science for hours, and my biggest goal in life is to bring my science/technology projects to life.</p>
+
+<!-- Certifications -->
+<h2>🎓 Certifications</h2>
+<ul>
+  <li></li>
+  <li></li>
+  <li></li>
+</ul>
 
 <!-- Technical Skills -->
 <h3>🛠 Technical Skills</h3>
@@ -45,6 +58,15 @@
   <li><strong>Other:</strong> Agile Methodologies, Test Automation, CI/CD</li>
 </ul>
 
+<!-- Goals -->
+<h3>🎯 My Goals</h3>
+<ul>
+  <li>🚀 To bring my science and technology projects to life</li>
+  <li>🌱 To continuously learn new things and improve myself</li>
+  <li>🤝 To contribute to open-source projects</li>
+  <li>💼 To make significant strides in my professional career</li>
+</ul>
+
 <!-- Interests -->
 <h3>📌 My Interests</h3>
 <ul>
@@ -56,35 +78,6 @@
   <li>📚 Reading about science and technology</li>
 </ul>
 
-<!-- Goals -->
-<h3>🎯 My Goals</h3>
-<ul>
-  <li>🚀 To bring my science and technology projects to life</li>
-  <li>🌱 To continuously learn new things and improve myself</li>
-  <li>🤝 To contribute to open-source projects</li>
-  <li>💼 To make significant strides in my professional career</li>
-</ul>
-
----
-
-<!-- Projects -->
-<h2>🏆 My Projects</h2>
-
-<h3><a href="https://github.com/cagdasseckint/proje1">Project 1: Project Name </a></h3>
-<p>Project description...</p>
-<ul>
-  <li>🔧 Technologies Used: </li>
-  <li>✨ Features: </li>
-</ul>
-
----
-
-<!-- Contact -->
-<h2>📫 Contact</h2>
-<ul>
-  <li><strong>Email:</strong> <a href="mailto:cagdasseckintufekci@gmail.com">cagdasseckintufekci@gmail.com</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/cagdasseckintufekci">cagdasseckintufekci</a></li>
-  
 ---
 
 <!-- GitHub Stats -->
@@ -98,6 +91,16 @@
 </p>
 
 ---
+
+<!-- Projects -->
+<h2>🏆 My Projects</h2>
+
+<h3><a href="https://github.com/cagdasseckint/proje1">Project 1: Project Name </a></h3>
+<p>Project description...</p>
+<ul>
+  <li>🔧 Technologies Used: </li>
+  <li>✨ Features: </li>
+</ul>
 
 <!-- Contributions -->
 <h2>🤝 Contributions</h2>
@@ -113,13 +116,13 @@
   <li><a href="https://medium.com/@kullaniciadi/blog-yazisi-2">Blog Post 2</a><br>description...</li>
 </ul>
 
-<!-- Certifications -->
-<h2>🎓 Certifications</h2>
+---
+
+<!-- Contact -->
+<h2>📫 Contact</h2>
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-</ul>
+  <li><strong>Email:</strong> <a href="mailto:cagdasseckintufekci@gmail.com">cagdasseckintufekci@gmail.com</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/cagdasseckintufekci">cagdasseckintufekci</a></li>  
 
 ---
 
