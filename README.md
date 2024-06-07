@@ -1,9 +1,10 @@
 <!-- Title and Brief Info -->
-<h1 align="center">Hello, I'm Çağdaş! 👋</h1>
+<div align=center>
 <p align="center">
-  <strong>Location:</strong> Istanbul, Turkey<br>
-  <strong>Major:</strong> Full-Stack Developer<br>
----
+  <a href="https://github.com/cagdasseckint"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+To+My+Profile;Çağdaş+Seçkin+Tüfekci;Full-Stack+Developer;&font=Pacifico&center=true&width=650&height=120&color=00FF00&vCenter=true&size=45%22"></a>
+</div>
+
+
 
 <!-- About Me -->
 <h2>About Me</h2>
@@ -96,10 +97,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasseckint&layout=compact&theme=radical" alt="Top Languages Used">
 </p>
 
-</br>
-<p style="display: flex; justify-contect: space-between;">
-<img style="border-radius: 5px; margin-bottom: 5px" alt="Github Contribution Stats" width="330px" height="240px" src="https://github-contribution-stats.vercel.app/api/?username=cagdasseckint" />
-  
 ---
 
 <!-- Contributions -->
