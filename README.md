@@ -4,7 +4,7 @@
   <a href="https://github.com/cagdasseckint"><img src="https://readme-typing-svg.herokuapp.com/?lines=+Welcome+To+My+Profile;Çağdaş+Seçkin+Tüfekci;Full-Stack+Developer;&font=Pacifico&center=true&width=650&height=120&color=00FF00&vCenter=true&size=45%22"></a>
 </div>
 
-![readmepng1](https://private-user-images.githubusercontent.com/80230435/337638087-91b980d8-e54d-4174-8d2a-704d7fe4b593.jpeg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTc3NjA0NDAsIm5iZiI6MTcxNzc2MDE0MCwicGF0aCI6Ii84MDIzMDQzNS8zMzc2MzgwODctOTFiOTgwZDgtZTU0ZC00MTc0LThkMmEtNzA0ZDdmZTRiNTkzLmpwZWc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNjA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDYwN1QxMTM1NDBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02MWJjYmNhOGMyYjBlNTM5MzUwZGRmNzVmY2YwYWViYjFlZjM5MzIyNTdiYWE2YzU4NTY5NGQ0NDM2ZmEwNTJhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.I6V4IxZg068MCS9XXlhtcj52Sr71vZlw2Oq8kPApFw8)
+![readmepng1](https://github.com/cagdasseckint/cagdasseckint/assets/80230435/91b980d8-e54d-4174-8d2a-704d7fe4b593)
 
 <p align="center"> 
   Visitor count<br>
