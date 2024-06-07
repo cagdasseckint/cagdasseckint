@@ -97,7 +97,7 @@
 
 <!-- Contact -->
 <div align="center">
-    <a href="https://www.instagram.com/cagdasseckintufekci/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="48" height="48"></a>
+    <a href="https://www.instagram.com/cagdasseckint/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" width="48" height="48"></a>
     <a href="https://www.linkedin.com/in/cagdasseckintufekci/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="48" height="48"></a>
     <a href="mailto:cagdasseckintufekci@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" width="48" height="48"></a>
 </div>
