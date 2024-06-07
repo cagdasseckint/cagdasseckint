@@ -62,13 +62,16 @@
 
 <!-- GitHub Stats -->
 <h2>📊 My GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cagdasseckint&show_icons=true&theme=radical" alt="Çağdaş's GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasseckint&layout=compact&theme=radical" alt="Top Languages Used">
-</p>
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/cagdasseckint/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=cagdasseckint&show_icons=true&theme=buefy" alt="Çağdaş's GitHub Stats"/>
+  </a>
+  <a href="https://github.com/cagdasseckint/cagdasseckint.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cagdasseckint&layout=compact&theme=buefy" alt="Top Languages Used"/>
+  </a>
+</div>
+<br />
+<br />
 
 ---
 
