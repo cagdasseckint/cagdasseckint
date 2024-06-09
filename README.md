@@ -13,7 +13,7 @@
 
 <!-- About Me -->
 <h2>About Me</h2>
-<p>Hello! I'm Çağdaş, living in Istanbul and studying software engineering. I work as a digital consultant and freelance in software and design projects. I can talk about technology and science for hours, and my biggest goal in life is to bring my science/technology projects to life.</p>
+<p></p>
 
 <!-- Certifications -->
 <h2>🎓 Certifications</h2>
