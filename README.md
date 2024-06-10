@@ -13,7 +13,11 @@
 
 <!-- About Me -->
 <h2>About Me</h2>
-<p></p>
+<p>As a dedicated Full-Stack Developer, I freelance, developing innovative software solutions. I am passionate about Data Science, Artificial Intelligence (AI), and Machine Learning (ML), and I continually educate myself in these fields through ongoing learning and hands-on projects.
+
+Additionally, I stay updated with advanced technologies such as Big Data analytics, Natural Language Processing (NLP), and Deep Learning, continuously learning in these areas. With a strong background in project management and team collaboration, I effectively apply Agile and Scrum methodologies to ensure project success. Leveraging my skills in DevOps, CI/CD (Continuous Integration and Continuous Deployment), and cloud computing (AWS, Google Cloud), I develop strategies and solutions that enhance technical team efficiency.
+
+If you are looking to collaborate on cutting-edge software solutions and AI projects or to strengthen your technical team with proven strategies, I would be delighted to connect and explore potential opportunities. </p>
 
 <!-- Certifications -->
 <h2>🎓 Certifications</h2>
