@@ -13,11 +13,15 @@
 
 <!-- About Me -->
 <h2>About Me</h2>
-<p>As a dedicated Full-Stack Developer, I freelance, developing innovative software solutions. I am passionate about Data Science, Artificial Intelligence (AI), and Machine Learning (ML), and I continually educate myself in these fields through ongoing learning and hands-on projects.
+<p>I continue my career as a Freelance Full-Stack Software Developer, fueled by my deep passion for research and acquiring knowledge. With 7 years of experience, I grow more in love with my work, embracing every piece of information, education, and project I encounter, and pursue it with enthusiasm.
 
-Additionally, I stay updated with advanced technologies such as Big Data analytics, Natural Language Processing (NLP), and Deep Learning, continuously learning in these areas. With a strong background in project management and team collaboration, I effectively apply Agile and Scrum methodologies to ensure project success. Leveraging my skills in DevOps, CI/CD (Continuous Integration and Continuous Deployment), and cloud computing (AWS, Google Cloud), I develop strategies and solutions that enhance technical team efficiency.
+I possess in-depth knowledge of various programming languages such as Python, JavaScript, Java, C#, C++, and R; web technologies like HTML5, CSS3, ASP.NET MVC, and JQuery; and database technologies such as MySQL, MongoDB, and MSSQL. While developing data analysis projects with Python, I also designed user-friendly interfaces using JavaScript and React. Additionally, I executed comprehensive projects on large-scale database management and optimization with MySQL and MongoDB.
 
-If you are looking to collaborate on cutting-edge software solutions and AI projects or to strengthen your technical team with proven strategies, I would be delighted to connect and explore potential opportunities. </p>
+In freelance and team projects, I efficiently manage workflows using Agile and Scrum methodologies. I have optimized development workflows by managing DevOps practices and CI/CD (Continuous Integration and Continuous Deployment) processes on AWS and Google Cloud platforms. Through automation tools, I have boosted team productivity.
+
+I am deeply passionate about Data Science, Artificial Intelligence (AI), and Machine Learning (ML), and I continuously educate myself in these fields. I regularly take courses to stay current with advanced technologies like Big Data analytics, Natural Language Processing (NLP), and Deep Learning.
+
+My goal is to reach sufficient expertise in AI to launch my own projects and build my career in this field. Feel free to connect with me for collaboration on advanced software solutions and AI projects, or to strengthen your technical team. I would be pleased to explore potential opportunities.</p>
 
 <!-- Certifications -->
 <h2>🎓 Certifications</h2>
